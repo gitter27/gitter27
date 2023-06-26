@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nebiyu <br/><a href="https://github.com/gitter27"></a> <a href="https://www.linkedin.com/innebiyu-gezahegne-29b92027b//"> an IT Professional</a> <a href="https://www.youtube.com/c/"></a></h1>
+<h1>Hi, I'm Nebiyu , an IT Professional <br/><a href="https://github.com/gitter27"></a> <a href="https://www.linkedin.com/innebiyu-gezahegne-29b92027b//"> an IT Professional</a> <a href="https://www.youtube.com/c/"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
