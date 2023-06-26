@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/nebiyu-gezahegne-29b92027b/
+[linkedin]: https://www.linkedin.com/in/nebiyu-gezahegne-29b92027b/
 <!--
 **gitter27/gitter27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
